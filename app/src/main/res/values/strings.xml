@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UserBlinkitClone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="blink">Blink</string>
+    <string name="it">it</string>
+    <string name="india_s_last_minute_app">India\'s last minute app</string>
+    <string name="a_zomato_company">A ZOMATO COMPANY</string>
+    <string name="sign_in_or_login">sign in or login</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="continue_">Continue</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="we_have_sent_an_verification_code_to_your_number">we have sent an verification code to your number</string>
+    <string name="number">number</string>
+    <string name="verify_and_login">Verify and Login</string>
+    <string name="verifying_your_number">verifying your number \n please wait...</string>
+    <string name="loading">Loading...</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="_00_60">00:60</string>
+</resources>
